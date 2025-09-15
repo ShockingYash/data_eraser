@@ -1,0 +1,21 @@
+{
+  "id": "fed367df-6eef-4860-90ec-eb884ccfedc6",
+  "version": "1.0",
+  "timestamp": "2025-09-15T20:01:50.218Z",
+  "device": {
+    "id": "USB_DRIVE_1",
+    "name": "USB Drive (8GB)",
+    "size": 8000000000
+  },
+  "wipe": {
+    "method": "NIST-SP-800-88-Clear",
+    "passes": 1,
+    "status": "completed",
+    "duration": "5 seconds",
+    "verificationHash": "c1a65bc421e29487f4b93f3b86d63a0b073a8ea001b9824daf19fa054f7421b5"
+  },
+  "compliance": {
+    "standard": "NIST-SP-800-88",
+    "level": "Clear"
+  }
+}
